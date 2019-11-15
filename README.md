@@ -1,6 +1,9 @@
 # sailsjs-playground
 This was built using the https://www.techiediaries.com/sailsjs-tutorial/
 
+Visit this `http://localhost:1337/policies/p001` and then experiment
+
+
 
 a [Sails v1](https://sailsjs.com) application
 
