@@ -1,4 +1,6 @@
 # sailsjs-playground
+This was built using the https://www.techiediaries.com/sailsjs-tutorial/
+
 
 a [Sails v1](https://sailsjs.com) application
 
